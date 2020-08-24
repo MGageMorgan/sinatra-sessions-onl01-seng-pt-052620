@@ -2,6 +2,7 @@
 source "https://rubygems.org"
 
 # gem "rails"
+gem 'sysrandom'
 gem 'eventmachine', '~>1.0.5'
 gem 'sinatra'
 gem 'rake'
